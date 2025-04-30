@@ -1,0 +1,16 @@
+# Arquivos temporários
+*.bkp
+*.bak
+*.tmp
+*.swp
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos do Nginx padrão
+index.nginx-debian.html
+
+# Outros que você não quiser rastrear
+status.json
